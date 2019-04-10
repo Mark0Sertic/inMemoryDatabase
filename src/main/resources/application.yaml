@@ -1,0 +1,10 @@
+## Configuration for running on other port
+server:
+  port: 8099
+
+## Time frame duration and unit time interval definition
+time:
+  frame:
+    duration: 60000
+    unit:
+      interval: 1000
